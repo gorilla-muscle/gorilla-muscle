@@ -7,8 +7,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoNozomi44&theme=graywhite)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/muscle_gori02/posts.svg)](http://qiita.com/muscle_gori02)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/muscle_gori02/contributions.svg)](http://qiita.com/muscle_gori02)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/muscle_gori02/followers.svg)](http://qiita.com/muscle_gori02)
 
 <!--
 **SatoNozomi44/SatoNozomi44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
