@@ -1,8 +1,8 @@
 ## Nozomi.S Profile
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoNozomi44&layout=compact&show_icons=true&theme=graywhite" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SatoNozomi44&show_icons=true&theme=graywhite" />
+  <img alt="Top Langs" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoNozomi44&layout=compact&show_icons=true&theme=graywhite" />
+  <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=SatoNozomi44&show_icons=true&theme=graywhite" />
 </p>
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/muscle_gori02/contributions.svg)](http://qiita.com/muscle_gori02)
