@@ -1,4 +1,4 @@
-## Nozomi.S Profile
+## Nozomi's Profile
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
 <p align="left"> 
   <img alt="Profile Summary Cards" height="230px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoNozomi44&theme=graywhite" />
