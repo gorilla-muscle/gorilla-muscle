@@ -1,7 +1,10 @@
 ## Nozomi's Profile
 ### My motto : "Continuity is power."
+<br>
+<p>
+  <img alt="Profile komarev" height="25px" src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
 <p align="left">
   <img alt="Profile Summary Cards" height="230px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoNozomi44&theme=graywhite" />
   <img alt="Top Langs" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoNozomi44&layout=compact&show_icons=true&theme=graywhite" />
