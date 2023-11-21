@@ -1,6 +1,12 @@
 ## Nozomi's Profile
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
-<p align="left"> 
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  </picture>
   <img alt="Profile Summary Cards" height="230px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoNozomi44&theme=graywhite" />
   <img alt="Top Langs" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoNozomi44&layout=compact&show_icons=true&theme=graywhite" />
   <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=SatoNozomi44&show_icons=true&theme=graywhite" />
