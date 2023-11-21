@@ -1,5 +1,5 @@
 ## Nozomi's Profile
-![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
+### My motto : "Continuity is power."
 
 <p align="left">
   <picture>
@@ -12,6 +12,7 @@
   <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=SatoNozomi44&show_icons=true&theme=graywhite" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/muscle_gori02/contributions.svg)](http://qiita.com/muscle_gori02)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/muscle_gori02/posts.svg)](http://qiita.com/muscle_gori02)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/muscle_gori02/followers.svg)](http://qiita.com/muscle_gori02)
