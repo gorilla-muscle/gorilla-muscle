@@ -2,7 +2,7 @@
 ### My motto : "Continuity is power."
 <br>
 <p>
-  <img alt="Profile komarev" height="25px" src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic" />
+  <img alt="Profile komarev" height="20px" src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic" />
 </p>
 
 <p align="left">
