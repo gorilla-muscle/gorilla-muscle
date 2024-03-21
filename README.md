@@ -2,9 +2,9 @@
 ### My motto : "Continuity is power."
 <br>
 <p align="left">
-  <img alt="Profile Summary Cards" height="230px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoNozomi44&theme=graywhite" />
-  <img alt="Top Langs" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoNozomi44&layout=compact&show_icons=true&theme=graywhite" />
-  <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=SatoNozomi44&show_icons=true&theme=graywhite" />
+  <img alt="Profile Summary Cards" height="230px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorilla-muscle&theme=graywhite" />
+  <img alt="Top Langs" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorilla-muscle&layout=compact&show_icons=true&theme=graywhite" />
+  <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=gorilla-muscle&show_icons=true&theme=graywhite" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=plastic)
